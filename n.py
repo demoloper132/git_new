@@ -5,3 +5,4 @@ for x in range(start,end+1):
         result = x* y
         print (f" {x}X{y} ={result}")
     print("------------")
+    print ("........")
